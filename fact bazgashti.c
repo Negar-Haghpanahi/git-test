@@ -11,5 +11,4 @@ int  fact(int k)
  {
  	int n;
  	scanf("%d\n",&n);
- 	printf("%d",fact(n));
  }
