@@ -10,5 +10,6 @@ int  fact(int k)
  int main()
  {
  	int n;
+#salll j
  	scanf("%d\n",&n);
  }
